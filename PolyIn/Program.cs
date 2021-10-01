@@ -24,17 +24,20 @@ namespace PolyIn
             lorry.model = "Lorry";
             lorry.make = "Truck";
             lorry.colour = "Black";
-            clio.vehicleId = 10;
-            clio.vehicleType = "Truck";
+            lorry.vehicleId = 10;
+            lorry.vehicleType = "Truck";
             Console.WriteLine(lorry.getInfo());
 
             Vehicle.Motorbike bicycle = new Vehicle.Motorbike();
             bicycle.model = "pedals";
             bicycle.make = "b&q";
             bicycle.colour = "red";
-            clio.vehicleId = 1;
-            clio.vehicleType = "Motorbike";
+            bicycle.vehicleId = 1;
+            bicycle.vehicleType = "Motorbike";
             Console.WriteLine(bicycle.getInfo());
+
+            //Vehicle.bicycle = Garage.
+
 
         }
     }

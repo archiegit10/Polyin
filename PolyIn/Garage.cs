@@ -8,9 +8,16 @@ namespace PolyIn
 {
     class Garage
     {
-        public void AddVehicle()
+        IList<Vehicle> vehicles = new List<Vehicle>();
+        public string vehicleMake;
+        public string vehicleModel;
+        public string vehicleColour;
+        public string vehicleType;
+        public int vehicleId;
+        public void AddVehicle(string vehicleMake, string vehicleModel, string vehicleColour, string vehicleType, int vehicleId)
         {
-
+            Vehicle tempVehicle = new Vehicle();
+            vehicles.Add(tempVehicle);
         }
         public void RemoveVehicle()
         {
