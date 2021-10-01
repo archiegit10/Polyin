@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\CSharp\PolyIn\PolyIn\bin\Debug\net5.0\PolyIn.exe
+C:\Users\Admin\Desktop\CSharp\PolyIn\PolyIn\bin\Debug\net5.0\PolyIn.deps.json
+C:\Users\Admin\Desktop\CSharp\PolyIn\PolyIn\bin\Debug\net5.0\PolyIn.runtimeconfig.json
+C:\Users\Admin\Desktop\CSharp\PolyIn\PolyIn\bin\Debug\net5.0\PolyIn.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\CSharp\PolyIn\PolyIn\bin\Debug\net5.0\PolyIn.dll
+C:\Users\Admin\Desktop\CSharp\PolyIn\PolyIn\bin\Debug\net5.0\ref\PolyIn.dll
+C:\Users\Admin\Desktop\CSharp\PolyIn\PolyIn\bin\Debug\net5.0\PolyIn.pdb
+C:\Users\Admin\Desktop\CSharp\PolyIn\PolyIn\obj\Debug\net5.0\PolyIn.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\CSharp\PolyIn\PolyIn\obj\Debug\net5.0\PolyIn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CSharp\PolyIn\PolyIn\obj\Debug\net5.0\PolyIn.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CSharp\PolyIn\PolyIn\obj\Debug\net5.0\PolyIn.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CSharp\PolyIn\PolyIn\obj\Debug\net5.0\PolyIn.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CSharp\PolyIn\PolyIn\obj\Debug\net5.0\PolyIn.dll
+C:\Users\Admin\Desktop\CSharp\PolyIn\PolyIn\obj\Debug\net5.0\ref\PolyIn.dll
+C:\Users\Admin\Desktop\CSharp\PolyIn\PolyIn\obj\Debug\net5.0\PolyIn.pdb
+C:\Users\Admin\Desktop\CSharp\PolyIn\PolyIn\obj\Debug\net5.0\PolyIn.genruntimeconfig.cache
