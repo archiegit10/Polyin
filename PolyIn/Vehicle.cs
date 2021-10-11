@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PolyIn
 {
-    class Vehicle
+    internal abstract class Vehicle : IDriveable
     {
         private string vehicleMake;
         private string vehicleModel;
@@ -30,6 +30,9 @@ namespace PolyIn
             set { vehicleColour = value; }
         }
 
+
+        // Constructors needed
+        /*
         internal class Car : Vehicle
         {
             public string getInfo()
@@ -37,7 +40,6 @@ namespace PolyIn
                return $"\nCar details ID: {vehicleId} Type: {vehicleType}\nCar Description: {vehicleModel} {vehicleMake} in {vehicleColour} ";
             }
         }
-
         internal class Motorbike : Vehicle
         {
             public string getInfo()
@@ -45,7 +47,6 @@ namespace PolyIn
                 return $"\nMotorbike details ID: {vehicleId} Type: {vehicleType}\nMotorbike Description: {vehicleModel} {vehicleMake} in {vehicleColour} ";
             }
         }
-
         internal class Truck : Vehicle
         {
             public string getInfo()
@@ -53,5 +54,7 @@ namespace PolyIn
                 return $"\nTruck details ID: {vehicleId} Type: {vehicleType}\nTruck Description: {vehicleModel} {vehicleMake} in {vehicleColour} ";
             }
         }
+        */
+        public abstract void Drive();
     }
 }
